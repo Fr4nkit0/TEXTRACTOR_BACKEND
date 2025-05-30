@@ -1,0 +1,35 @@
+# Entornos virtuales
+venv/
+env/
+# Compilados de Python
+*.pyc
+__pycache__/
+# Configuración y secretos
+*.env
+*.local
+images/
+exports/
+
+# Archivos de bases de datos SQLite (aunque uses PostgreSQL, por si acaso)
+*.sqlite3
+# Configuración de editores
+.vscode/g
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.vcxproj
+*.vcxproj.filters
+
+# Logs y archivos temporales
+*.log
+*.pot
+*.pyc
+*.pyo
+*.~
+*.bak
+*.tmp
+*.DS_Store
