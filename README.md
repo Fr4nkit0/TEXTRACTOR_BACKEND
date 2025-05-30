@@ -30,7 +30,6 @@ Una vez que tengas el entorno virtual activado, navega hasta la raíz del proyec
 
 ```bash
 pip install -r requirements.base.txt
-###2. Instalar dependencias
 ```
 
 ### 3. Configuración de credenciales
